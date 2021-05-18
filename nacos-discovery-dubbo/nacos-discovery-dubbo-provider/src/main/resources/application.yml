@@ -8,7 +8,7 @@ dubbo:
     name: dubbo
     port: -1
   registry:
-    address: spring-cloud://localhost
+    address: nacos://hadoop000:8848
   application:
     qos-enable: true
   cloud:

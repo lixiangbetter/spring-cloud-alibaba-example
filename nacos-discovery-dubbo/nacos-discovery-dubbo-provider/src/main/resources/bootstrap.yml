@@ -10,4 +10,4 @@ spring:
       discovery:
         enabled: true
         register-enabled: true
-        server-addr: localhost:8848
+        server-addr: hadoop000:8848

@@ -3,7 +3,7 @@ spring:
     name: nacos-dubbo-consumer
 dubbo:
   registry:
-    address: spring-cloud://localhost
+    address: nacos://hadoop000:8848
   cloud:
     subscribed-services: nacos-dubbo-provider
   application:
