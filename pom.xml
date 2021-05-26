@@ -16,7 +16,7 @@
     </parent>
 
 
-    <name>anydata-alibaba-example</name>
+    <name>spring-cloud-alibaba-example</name>
     <description>SpringCloudAlibaba example</description>
 
     <modules>
